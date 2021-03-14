@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieApi</string>
+    <string name="mvvm">MVVM</string>
+    <string name="connection_problem">Connection Problem!!</string>
+</resources>
